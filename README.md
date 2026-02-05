@@ -6,7 +6,6 @@
 
 ## 🚀 About this project
 This repository contains a demo Telegram bot used to showcase my development services.
-It demonstrates a basic bot workflow and service presentation.
 
 ## 🛠 Tech Stack
 - Python
