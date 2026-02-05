@@ -1,5 +1,6 @@
 """
-Website • Mobile App
+Telegram Bot - Entry point
+Services: Telegram Bot • Website • Mobile App
 """
 
 import os
