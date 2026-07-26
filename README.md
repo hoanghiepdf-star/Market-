@@ -11,6 +11,8 @@ This repository contains a demo Telegram bot used to showcase my development ser
 - Python
 - python-telegram-bot
 - Environment variables for security
+- C++
+- Flutter
 
 ## 📩 Contact
 
